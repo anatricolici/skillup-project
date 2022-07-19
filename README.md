@@ -1,3 +1,6 @@
-# skillup-project
+# In aceasta repozitorie se contin materiale din toate tehnologiile care le-am studiat 
+##HTML
+##CSS
+##SQL
 
-In aceasta repozitorie se contin toate taskurle indeplinite in cadrul cursului de instruire skill-up
+## [Manual testing](https://docs.google.com/spreadsheets/d/1FS-EzF15kbzBDs1KLFrcOquF7MYRvqeKUEWjTihyV2k/edit?usp=sharing)
